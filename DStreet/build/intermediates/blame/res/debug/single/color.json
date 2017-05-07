@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "E:\\DStreet\\DStreet\\build\\intermediates\\res\\merged\\debug\\color\\common_signin_btn_text_light.xml",
+        "source": "C:\\Users\\SANDEEP YADAV\\.android\\build-cache\\65d13b0219594e918cf592aceedcf47a9f595759\\output\\res\\color\\common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "E:\\DStreet\\DStreet\\build\\intermediates\\res\\merged\\debug\\color\\common_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\SANDEEP YADAV\\.android\\build-cache\\65d13b0219594e918cf592aceedcf47a9f595759\\output\\res\\color\\common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "E:\\DStreet\\DStreet\\build\\intermediates\\res\\merged\\debug\\color\\wallet_primary_text_holo_light.xml",
+        "source": "C:\\Users\\SANDEEP YADAV\\.android\\build-cache\\65d13b0219594e918cf592aceedcf47a9f595759\\output\\res\\color\\wallet_primary_text_holo_light.xml"
+    },
+    {
+        "merged": "E:\\DStreet\\DStreet\\build\\intermediates\\res\\merged\\debug\\color\\abs__primary_text_disable_only_holo_dark.xml",
+        "source": "C:\\Users\\SANDEEP YADAV\\.android\\build-cache\\d490c8cf8f0c6510e2b9acb6d2e07740e7567f19\\output\\res\\color\\abs__primary_text_disable_only_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\DStreet\\DStreet\\build\\intermediates\\res\\merged\\debug\\color\\wallet_secondary_text_holo_dark.xml",
+        "source": "C:\\Users\\SANDEEP YADAV\\.android\\build-cache\\65d13b0219594e918cf592aceedcf47a9f595759\\output\\res\\color\\wallet_secondary_text_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\DStreet\\DStreet\\build\\intermediates\\res\\merged\\debug\\color\\abs__primary_text_holo_dark.xml",
+        "source": "C:\\Users\\SANDEEP YADAV\\.android\\build-cache\\d490c8cf8f0c6510e2b9acb6d2e07740e7567f19\\output\\res\\color\\abs__primary_text_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\DStreet\\DStreet\\build\\intermediates\\res\\merged\\debug\\color\\abs__primary_text_holo_light.xml",
+        "source": "C:\\Users\\SANDEEP YADAV\\.android\\build-cache\\d490c8cf8f0c6510e2b9acb6d2e07740e7567f19\\output\\res\\color\\abs__primary_text_holo_light.xml"
+    },
+    {
+        "merged": "E:\\DStreet\\DStreet\\build\\intermediates\\res\\merged\\debug\\color\\abs__primary_text_disable_only_holo_light.xml",
+        "source": "C:\\Users\\SANDEEP YADAV\\.android\\build-cache\\d490c8cf8f0c6510e2b9acb6d2e07740e7567f19\\output\\res\\color\\abs__primary_text_disable_only_holo_light.xml"
+    }
+]

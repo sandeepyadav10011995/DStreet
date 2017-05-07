@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\DStreet\\DStreet\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.jpg",
+        "source": "E:\\DStreet\\DStreet\\src\\main\\res\\drawable-hdpi\\ic_launcher.jpg"
+    },
+    {
+        "merged": "E:\\DStreet\\DStreet\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dialog_box.xml",
+        "source": "E:\\DStreet\\DStreet\\src\\main\\res\\drawable-hdpi\\dialog_box.xml"
+    },
+    {
+        "merged": "E:\\DStreet\\DStreet\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sw.xml",
+        "source": "E:\\DStreet\\DStreet\\src\\main\\res\\drawable-hdpi\\sw.xml"
+    }
+]

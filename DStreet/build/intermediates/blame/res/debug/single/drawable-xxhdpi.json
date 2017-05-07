@@ -1,0 +1,206 @@
+[
+    {
+        "merged": "E:\\DStreet\\DStreet\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\switch_activated.png",
+        "source": "E:\\DStreet\\DStreet\\src\\main\\res\\drawable-xxhdpi\\switch_activated.png"
+    },
+    {
+        "merged": "E:\\DStreet\\DStreet\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_cancel.png",
+        "source": "E:\\DStreet\\DStreet\\src\\main\\res\\drawable-xxhdpi\\ic_action_cancel.png"
+    },
+    {
+        "merged": "E:\\DStreet\\DStreet\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_refresh.png",
+        "source": "E:\\DStreet\\DStreet\\src\\main\\res\\drawable-xxhdpi\\ic_action_refresh.png"
+    },
+    {
+        "merged": "E:\\DStreet\\DStreet\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_signin_btn_text_disabled_light.9.png",
+        "source": "C:\\Users\\SANDEEP YADAV\\.android\\build-cache\\65d13b0219594e918cf592aceedcf47a9f595759\\output\\res\\drawable-xxhdpi\\common_signin_btn_text_disabled_light.9.png"
+    },
+    {
+        "merged": "E:\\DStreet\\DStreet\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\powered_by_google_dark.png",
+        "source": "C:\\Users\\SANDEEP YADAV\\.android\\build-cache\\65d13b0219594e918cf592aceedcf47a9f595759\\output\\res\\drawable-xxhdpi\\powered_by_google_dark.png"
+    },
+    {
+        "merged": "E:\\DStreet\\DStreet\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\switch_bg_disabled_holo_dark.9.png",
+        "source": "E:\\DStreet\\DStreet\\src\\main\\res\\drawable-xxhdpi\\switch_bg_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\DStreet\\DStreet\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\star.png",
+        "source": "E:\\DStreet\\DStreet\\src\\main\\res\\drawable-xxhdpi\\star.png"
+    },
+    {
+        "merged": "E:\\DStreet\\DStreet\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_signin_btn_icon_focus_light.9.png",
+        "source": "C:\\Users\\SANDEEP YADAV\\.android\\build-cache\\65d13b0219594e918cf592aceedcf47a9f595759\\output\\res\\drawable-xxhdpi\\common_signin_btn_icon_focus_light.9.png"
+    },
+    {
+        "merged": "E:\\DStreet\\DStreet\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\alerts.png",
+        "source": "E:\\DStreet\\DStreet\\src\\main\\res\\drawable-xxhdpi\\alerts.png"
+    },
+    {
+        "merged": "E:\\DStreet\\DStreet\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\pnone.png",
+        "source": "E:\\DStreet\\DStreet\\src\\main\\res\\drawable-xxhdpi\\pnone.png"
+    },
+    {
+        "merged": "E:\\DStreet\\DStreet\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\bell.png",
+        "source": "E:\\DStreet\\DStreet\\src\\main\\res\\drawable-xxhdpi\\bell.png"
+    },
+    {
+        "merged": "E:\\DStreet\\DStreet\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\tos.png",
+        "source": "E:\\DStreet\\DStreet\\src\\main\\res\\drawable-xxhdpi\\tos.png"
+    },
+    {
+        "merged": "E:\\DStreet\\DStreet\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_signin_btn_icon_disabled_dark.9.png",
+        "source": "C:\\Users\\SANDEEP YADAV\\.android\\build-cache\\65d13b0219594e918cf592aceedcf47a9f595759\\output\\res\\drawable-xxhdpi\\common_signin_btn_icon_disabled_dark.9.png"
+    },
+    {
+        "merged": "E:\\DStreet\\DStreet\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\news.png",
+        "source": "E:\\DStreet\\DStreet\\src\\main\\res\\drawable-xxhdpi\\news.png"
+    },
+    {
+        "merged": "E:\\DStreet\\DStreet\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\powered_by_google_light.png",
+        "source": "C:\\Users\\SANDEEP YADAV\\.android\\build-cache\\65d13b0219594e918cf592aceedcf47a9f595759\\output\\res\\drawable-xxhdpi\\powered_by_google_light.png"
+    },
+    {
+        "merged": "E:\\DStreet\\DStreet\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\about.png",
+        "source": "E:\\DStreet\\DStreet\\src\\main\\res\\drawable-xxhdpi\\about.png"
+    },
+    {
+        "merged": "E:\\DStreet\\DStreet\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_plusone_standard_off_client.png",
+        "source": "C:\\Users\\SANDEEP YADAV\\.android\\build-cache\\65d13b0219594e918cf592aceedcf47a9f595759\\output\\res\\drawable-xxhdpi\\ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "E:\\DStreet\\DStreet\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_plusone_tall_off_client.png",
+        "source": "C:\\Users\\SANDEEP YADAV\\.android\\build-cache\\65d13b0219594e918cf592aceedcf47a9f595759\\output\\res\\drawable-xxhdpi\\ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "E:\\DStreet\\DStreet\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\show.png",
+        "source": "E:\\DStreet\\DStreet\\src\\main\\res\\drawable-xxhdpi\\show.png"
+    },
+    {
+        "merged": "E:\\DStreet\\DStreet\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_plusone_small_off_client.png",
+        "source": "C:\\Users\\SANDEEP YADAV\\.android\\build-cache\\65d13b0219594e918cf592aceedcf47a9f595759\\output\\res\\drawable-xxhdpi\\ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "E:\\DStreet\\DStreet\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_not_important.png",
+        "source": "E:\\DStreet\\DStreet\\src\\main\\res\\drawable-xxhdpi\\ic_action_not_important.png"
+    },
+    {
+        "merged": "E:\\DStreet\\DStreet\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\portfolio.png",
+        "source": "E:\\DStreet\\DStreet\\src\\main\\res\\drawable-xxhdpi\\portfolio.png"
+    },
+    {
+        "merged": "E:\\DStreet\\DStreet\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_plusone_medium_off_client.png",
+        "source": "C:\\Users\\SANDEEP YADAV\\.android\\build-cache\\65d13b0219594e918cf592aceedcf47a9f595759\\output\\res\\drawable-xxhdpi\\ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "E:\\DStreet\\DStreet\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_signin_btn_icon_disabled_focus_dark.9.png",
+        "source": "C:\\Users\\SANDEEP YADAV\\.android\\build-cache\\65d13b0219594e918cf592aceedcf47a9f595759\\output\\res\\drawable-xxhdpi\\common_signin_btn_icon_disabled_focus_dark.9.png"
+    },
+    {
+        "merged": "E:\\DStreet\\DStreet\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_signin_btn_text_pressed_light.9.png",
+        "source": "C:\\Users\\SANDEEP YADAV\\.android\\build-cache\\65d13b0219594e918cf592aceedcf47a9f595759\\output\\res\\drawable-xxhdpi\\common_signin_btn_text_pressed_light.9.png"
+    },
+    {
+        "merged": "E:\\DStreet\\DStreet\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_search.png",
+        "source": "E:\\DStreet\\DStreet\\src\\main\\res\\drawable-xxhdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "E:\\DStreet\\DStreet\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\market.png",
+        "source": "E:\\DStreet\\DStreet\\src\\main\\res\\drawable-xxhdpi\\market.png"
+    },
+    {
+        "merged": "E:\\DStreet\\DStreet\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_signin_btn_icon_disabled_light.9.png",
+        "source": "C:\\Users\\SANDEEP YADAV\\.android\\build-cache\\65d13b0219594e918cf592aceedcf47a9f595759\\output\\res\\drawable-xxhdpi\\common_signin_btn_icon_disabled_light.9.png"
+    },
+    {
+        "merged": "E:\\DStreet\\DStreet\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_signin_btn_icon_pressed_dark.9.png",
+        "source": "C:\\Users\\SANDEEP YADAV\\.android\\build-cache\\65d13b0219594e918cf592aceedcf47a9f595759\\output\\res\\drawable-xxhdpi\\common_signin_btn_icon_pressed_dark.9.png"
+    },
+    {
+        "merged": "E:\\DStreet\\DStreet\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_signin_btn_text_focus_dark.9.png",
+        "source": "C:\\Users\\SANDEEP YADAV\\.android\\build-cache\\65d13b0219594e918cf592aceedcf47a9f595759\\output\\res\\drawable-xxhdpi\\common_signin_btn_text_focus_dark.9.png"
+    },
+    {
+        "merged": "E:\\DStreet\\DStreet\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_signin_btn_text_disabled_focus_dark.9.png",
+        "source": "C:\\Users\\SANDEEP YADAV\\.android\\build-cache\\65d13b0219594e918cf592aceedcf47a9f595759\\output\\res\\drawable-xxhdpi\\common_signin_btn_text_disabled_focus_dark.9.png"
+    },
+    {
+        "merged": "E:\\DStreet\\DStreet\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_signin_btn_text_normal_dark.9.png",
+        "source": "C:\\Users\\SANDEEP YADAV\\.android\\build-cache\\65d13b0219594e918cf592aceedcf47a9f595759\\output\\res\\drawable-xxhdpi\\common_signin_btn_text_normal_dark.9.png"
+    },
+    {
+        "merged": "E:\\DStreet\\DStreet\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\switch_dis.png",
+        "source": "E:\\DStreet\\DStreet\\src\\main\\res\\drawable-xxhdpi\\switch_dis.png"
+    },
+    {
+        "merged": "E:\\DStreet\\DStreet\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\switch_pressed.png",
+        "source": "E:\\DStreet\\DStreet\\src\\main\\res\\drawable-xxhdpi\\switch_pressed.png"
+    },
+    {
+        "merged": "E:\\DStreet\\DStreet\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\switch_bg_holo_dark.9.png",
+        "source": "E:\\DStreet\\DStreet\\src\\main\\res\\drawable-xxhdpi\\switch_bg_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\DStreet\\DStreet\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_signin_btn_text_disabled_dark.9.png",
+        "source": "C:\\Users\\SANDEEP YADAV\\.android\\build-cache\\65d13b0219594e918cf592aceedcf47a9f595759\\output\\res\\drawable-xxhdpi\\common_signin_btn_text_disabled_dark.9.png"
+    },
+    {
+        "merged": "E:\\DStreet\\DStreet\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\hide.png",
+        "source": "E:\\DStreet\\DStreet\\src\\main\\res\\drawable-xxhdpi\\hide.png"
+    },
+    {
+        "merged": "E:\\DStreet\\DStreet\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_signin_btn_icon_normal_light.9.png",
+        "source": "C:\\Users\\SANDEEP YADAV\\.android\\build-cache\\65d13b0219594e918cf592aceedcf47a9f595759\\output\\res\\drawable-xxhdpi\\common_signin_btn_icon_normal_light.9.png"
+    },
+    {
+        "merged": "E:\\DStreet\\DStreet\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\remove.png",
+        "source": "E:\\DStreet\\DStreet\\src\\main\\res\\drawable-xxhdpi\\remove.png"
+    },
+    {
+        "merged": "E:\\DStreet\\DStreet\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_important.png",
+        "source": "E:\\DStreet\\DStreet\\src\\main\\res\\drawable-xxhdpi\\ic_action_important.png"
+    },
+    {
+        "merged": "E:\\DStreet\\DStreet\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_signin_btn_text_focus_light.9.png",
+        "source": "C:\\Users\\SANDEEP YADAV\\.android\\build-cache\\65d13b0219594e918cf592aceedcf47a9f595759\\output\\res\\drawable-xxhdpi\\common_signin_btn_text_focus_light.9.png"
+    },
+    {
+        "merged": "E:\\DStreet\\DStreet\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_signin_btn_icon_normal_dark.9.png",
+        "source": "C:\\Users\\SANDEEP YADAV\\.android\\build-cache\\65d13b0219594e918cf592aceedcf47a9f595759\\output\\res\\drawable-xxhdpi\\common_signin_btn_icon_normal_dark.9.png"
+    },
+    {
+        "merged": "E:\\DStreet\\DStreet\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\switch_bg_focused_holo_dark.9.png",
+        "source": "E:\\DStreet\\DStreet\\src\\main\\res\\drawable-xxhdpi\\switch_bg_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\DStreet\\DStreet\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_signin_btn_text_disabled_focus_light.9.png",
+        "source": "C:\\Users\\SANDEEP YADAV\\.android\\build-cache\\65d13b0219594e918cf592aceedcf47a9f595759\\output\\res\\drawable-xxhdpi\\common_signin_btn_text_disabled_focus_light.9.png"
+    },
+    {
+        "merged": "E:\\DStreet\\DStreet\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_signin_btn_icon_focus_dark.9.png",
+        "source": "C:\\Users\\SANDEEP YADAV\\.android\\build-cache\\65d13b0219594e918cf592aceedcf47a9f595759\\output\\res\\drawable-xxhdpi\\common_signin_btn_icon_focus_dark.9.png"
+    },
+    {
+        "merged": "E:\\DStreet\\DStreet\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\alt.png",
+        "source": "E:\\DStreet\\DStreet\\src\\main\\res\\drawable-xxhdpi\\alt.png"
+    },
+    {
+        "merged": "E:\\DStreet\\DStreet\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_signin_btn_icon_disabled_focus_light.9.png",
+        "source": "C:\\Users\\SANDEEP YADAV\\.android\\build-cache\\65d13b0219594e918cf592aceedcf47a9f595759\\output\\res\\drawable-xxhdpi\\common_signin_btn_icon_disabled_focus_light.9.png"
+    },
+    {
+        "merged": "E:\\DStreet\\DStreet\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_signin_btn_text_pressed_dark.9.png",
+        "source": "C:\\Users\\SANDEEP YADAV\\.android\\build-cache\\65d13b0219594e918cf592aceedcf47a9f595759\\output\\res\\drawable-xxhdpi\\common_signin_btn_text_pressed_dark.9.png"
+    },
+    {
+        "merged": "E:\\DStreet\\DStreet\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_signin_btn_text_normal_light.9.png",
+        "source": "C:\\Users\\SANDEEP YADAV\\.android\\build-cache\\65d13b0219594e918cf592aceedcf47a9f595759\\output\\res\\drawable-xxhdpi\\common_signin_btn_text_normal_light.9.png"
+    },
+    {
+        "merged": "E:\\DStreet\\DStreet\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\add.png",
+        "source": "E:\\DStreet\\DStreet\\src\\main\\res\\drawable-xxhdpi\\add.png"
+    },
+    {
+        "merged": "E:\\DStreet\\DStreet\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_signin_btn_icon_pressed_light.9.png",
+        "source": "C:\\Users\\SANDEEP YADAV\\.android\\build-cache\\65d13b0219594e918cf592aceedcf47a9f595759\\output\\res\\drawable-xxhdpi\\common_signin_btn_icon_pressed_light.9.png"
+    }
+]

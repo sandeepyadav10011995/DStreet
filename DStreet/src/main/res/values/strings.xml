@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="banner_ad_unit_id">ca-app-pub-5506070993683162/4043255332</string>
+    <string name="app_name">DStreet</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="sym">Name</string>
+	<string name="ltp">LTP</string>
+	<string name="change">% Change</string>
+	<string name="eq">EQ</string>
+	<string name="website">http://infigent.co/stocksense/</string>
+	<string name="intro"> By </string>
+	<string name ="main">logos</string>
+	<string name="disc1"> skill. </string>
+	<string name="disc2"> Chokeslam </string>
+	<string name="disc3">FITNESS.</string>
+	<string name="lia1"> a </string>
+	<string name="lia2"> b </string>
+	<string name="busi"> google </string>
+    <string name="l1"> x </string>
+    <string name="l2"> y </string>
+    <string name="ms"> z </string>
+    <string name="p3"> q </string>
+</resources>

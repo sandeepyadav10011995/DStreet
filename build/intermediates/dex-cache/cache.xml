@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\DStreet\DStreet\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5240ebc0b32613e142137de2ccbeb7376c2dab5e">
+        <dex dex="E:\DStreet\DStreet\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_a43a9f59c1fe51e17afe96e4ba392371df1fa358\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SANDEEP YADAV\.gradle\caches\modules-2\files-2.1\org.jsoup\jsoup\1.10.2\33ee82e324f4b1e40167f3dc5e01234a1c5cab61\jsoup-1.10.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="33ee82e324f4b1e40167f3dc5e01234a1c5cab61">
+        <dex dex="E:\DStreet\DStreet\build\intermediates\transforms\dex\debug\folders\1000\10\jsoup-1.10.2_6517a6525bdeaa72b3d1d55bf75e0cf1d160fa0a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\DStreet\DStreet\libs\achartengine-1.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9932e3fb9fbe54e80873e77f72a99f79e33b3250">
+        <dex dex="E:\DStreet\DStreet\build\intermediates\transforms\dex\debug\folders\1000\2\achartengine-1.1.0_2375efefe6ca4f305bc788a99f55e7e1fde22496\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\DStreet\DStreet\libs\GraphView-3.1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="672e4a5d8906ab21665dcc08c1f7edb6efd6f903">
+        <dex dex="E:\DStreet\DStreet\build\intermediates\transforms\dex\debug\folders\1000\2\GraphView-3.1.3_2e57482c966b0eab993a73bc8bdbcdd6daf20543\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SANDEEP YADAV\.android\build-cache\e49d8f9b39b69d5b59579cc3f6137713a3fb16da\output\jars\libs\internal_impl-21.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="E:\DStreet\DStreet\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-21.0.0_dc54ca9758fd9edf8c11841fa41f4ede95cc58de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SANDEEP YADAV\.android\build-cache\e49d8f9b39b69d5b59579cc3f6137713a3fb16da\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="E:\DStreet\DStreet\build\intermediates\transforms\dex\debug\folders\1000\10\classes_08632f6a72a6a3a5177ca2938bb9e7a0d40ceb40\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SANDEEP YADAV\.android\build-cache\65d13b0219594e918cf592aceedcf47a9f595759\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="E:\DStreet\DStreet\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d1b9bd408c19c0d31ffb52d200c91c6e533ab6bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\DStreet\DStreet\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="E:\DStreet\DStreet\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_7b9bf91513c4bf801041c41708fd6231f5493b94\classes.dex" />
+    </item>
+
+</items>
